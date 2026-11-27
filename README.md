@@ -1,51 +1,47 @@
-<h1 align="center">Azaria McNair</h1>
-<p align="center"><code>analytics</code> &nbsp;|&nbsp; <code>information systems</code> &nbsp;|&nbsp; <code>business operations</code></p>
+<h2 align="center">Hi 👋, I'm Azaria!</h2>
+
+<p align="center"><i>Exploring business, data, technology and everything in between.<br>Personal projects · Freelance work · Academic research · Corporate experience</i></p>
+
 <p align="center"><a href="https://www.linkedin.com/in/azariamcnair/">LinkedIn</a> · <a href="https://github.com/azariamcnair3-cpu?tab=repositories">Repositories</a></p>
 
-## About me
+---
 
-I'm interested in how data, technology and business operations work together. My experience includes regional security reporting, revenue cycle analysis, operational analytics and developing tools that make information easier to use. Outside of work, I enjoy exploring ideas through independent projects.
+### 🪻 About Me
 
-This is a collection of my personal, freelance, academic and corporate work.
+My background spans business analytics, information systems, security reporting and operations. I've worked with regional security teams at DP World, analyzed healthcare claims at Carolina Billing and developed operational reporting at Lockhart Crane & Rigging.
 
-## Selected work
+I'm currently pursuing dual degrees in Business Analytics and Management Information Systems at UNC Charlotte, with a minor in Operations and Supply Chain Management.
 
-| Project | Category | Tools |
+### 🛠️ Projects
+
+| Project | Stack | Snapshot |
 | :--- | :--- | :--- |
-| Extracurricular Activity & Academic Performance | Academic · Regression analysis | SAS Viya |
+| [Personal Planner](https://github.com/azariamcnair3-cpu/26-planner) | HTML | Personal planning application |
+| Academic Performance Analysis | SAS Viya | Multivariate regression exploring student involvement and academic performance |
 
-<!-- Add public project links here as projects are released. For corporate work, share only approved or anonymized materials. -->
+<!-- Add personal, freelance, academic and approved corporate projects here. -->
 
-## Tools & technologies
+### 💻 Tools & Technologies
 
-<p><img src="https://skillicons.dev/icons?i=python,cs,visualstudio,github" alt="Python, C sharp, Visual Studio, GitHub" /></p>
+`Python` · `SQL` · `C#` · `DAX` · `Stata` · `SAS`
 
-| Area | Tools |
-| :--- | :--- |
-| Programming & databases | `Python` `SQL` `C#` `DAX` `Access` |
-| Analytics | `Power BI` `Excel` `SAS Viya` `Stata` |
-| Methods | Regression · KPI development · Data visualization · Trend analysis |
+`Power BI` · `Excel` · `Access` · `Visual Studio` · `SAS Viya`
 
-## Experience
+### 📚 Learning & Exploring
 
-| Organization | Role |
-| :--- | :--- |
-| DP World | Regional Security Intern |
-| Carolina Billing | Revenue Cycle Analyst Intern |
-| Lockhart Crane & Rigging | Business Operations Analyst |
+`Business Intelligence` · `Database Management` · `Econometrics`
 
-My work has included executive reporting, Power BI dashboards, claims analysis, inventory analysis and compliance support.
+`Digital Forensics` · `Risk Analysis` · `Business Applications`
 
-## Education & involvement
+### 🌱 Goals
 
-**UNC Charlotte** · Expected May 2027  
-BSBA, Management Information Systems & Business Analytics  
-Minor: Operations and Supply Chain Management
+- Build practical tools and explore independent project ideas.
+- Develop my expertise in analytics, systems and investigative technology.
 
-- Association for Information Systems — Treasurer & former President
-- ASIS International — Greater Charlotte Chapter member
-- Google Foundations of Cybersecurity · Bloomberg Market Concepts
+### 🤝 Let's Connect
 
-## Interests
+Interested in professional opportunities, independent projects and collaboration.
 
-Business intelligence · Digital forensics · Risk and security · Business systems · Independent development
+Connect with me on [LinkedIn](https://www.linkedin.com/in/azariamcnair/).
+
+---
