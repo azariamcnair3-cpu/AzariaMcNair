@@ -16,7 +16,6 @@ I'm currently pursuing dual degrees in Business Analytics and Management Informa
 
 | Project | Stack | Snapshot |
 | :--- | :--- | :--- |
-| [Personal Planner](https://github.com/azariamcnair3-cpu/26-planner) | HTML | Personal planning application |
 | Academic Performance Analysis | SAS Viya | Multivariate regression exploring student involvement and academic performance |
 
 <!-- Add personal, freelance, academic and approved corporate projects here. -->
