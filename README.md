@@ -2,7 +2,11 @@
 
 <p align="center"><i>Exploring business, data, technology and everything in between.<br>Personal projects · Freelance work · Academic research · Corporate experience</i></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/azariamcnair/">LinkedIn</a> · <a href="https://github.com/azariamcnair3-cpu?tab=repositories">Repositories</a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/azariamcnair/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/azariamcnair3-cpu?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+</p>
 
 ---
 
